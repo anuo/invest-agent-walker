@@ -1,0 +1,10 @@
+{
+  "name": "invest-agent-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Helpers for building the monthly and weekly report PDFs",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^18.1.0"
+  }
+}
